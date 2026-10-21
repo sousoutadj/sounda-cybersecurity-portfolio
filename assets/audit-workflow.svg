@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-labelledby="t d">
+<title id="t">Audit workflow</title><desc id="d">Six-step audit workflow from preparation to recommendations.</desc>
+<rect width="1200" height="600" rx="42" fill="#f6f6f3"/>
+<path d="M140 300H1060" stroke="#cfd8d2" stroke-width="8" stroke-linecap="round"/>
+<g font-family="Inter,Arial,sans-serif" text-anchor="middle">
+  <g transform="translate(150 300)"><circle r="54" fill="#26332e"/><text y="8" fill="#fff" font-size="26" font-weight="800">01</text><text y="100" fill="#1f2926" font-size="21" font-weight="700">Prepare</text></g>
+  <g transform="translate(330 300)"><circle r="54" fill="#4f6b5b"/><text y="8" fill="#fff" font-size="26" font-weight="800">02</text><text y="100" fill="#1f2926" font-size="21" font-weight="700">Assess</text></g>
+  <g transform="translate(510 300)"><circle r="54" fill="#0cb3d9"/><text y="8" fill="#fff" font-size="26" font-weight="800">03</text><text y="100" fill="#1f2926" font-size="21" font-weight="700">Evidence</text></g>
+  <g transform="translate(690 300)"><circle r="54" fill="#2878f0"/><text y="8" fill="#fff" font-size="26" font-weight="800">04</text><text y="100" fill="#1f2926" font-size="21" font-weight="700">Score</text></g>
+  <g transform="translate(870 300)"><circle r="54" fill="#35204d"/><text y="8" fill="#fff" font-size="26" font-weight="800">05</text><text y="100" fill="#1f2926" font-size="21" font-weight="700">Identify Gaps</text></g>
+  <g transform="translate(1050 300)"><circle r="54" fill="#c9a98e"/><text y="8" fill="#1f2926" font-size="26" font-weight="800">06</text><text y="100" fill="#1f2926" font-size="21" font-weight="700">Recommend</text></g>
+</g>
+<text x="80" y="92" font-family="Inter,Arial,sans-serif" font-size="24" font-weight="700" fill="#4f6b5b" letter-spacing="2">AUDIT APPROACH</text>
+<text x="80" y="142" font-family="Inter,Arial,sans-serif" font-size="42" font-weight="800" fill="#1f2926">From evidence to actionable recommendations</text>
+</svg>

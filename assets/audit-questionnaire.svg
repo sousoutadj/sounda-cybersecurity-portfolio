@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 720" role="img" aria-labelledby="t d">
+<title id="t">ISO 27002 assessment questionnaire</title><desc id="d">Stylized questionnaire illustrating security-policy, management and access-control assessment questions.</desc>
+<rect width="1100" height="720" rx="42" fill="#eef2ef"/>
+<rect x="110" y="70" width="880" height="580" rx="28" fill="#fff" stroke="#d8ded9"/>
+<text x="165" y="135" font-family="Inter,Arial,sans-serif" font-size="24" fill="#4f6b5b" font-weight="700">ASSESSMENT QUESTIONNAIRE</text>
+<text x="165" y="180" font-family="Inter,Arial,sans-serif" font-size="38" fill="#1f2926" font-weight="800">ISO/IEC 27002 Security Controls</text>
+<g font-family="Inter,Arial,sans-serif" fill="#26332e" font-size="22">
+  <text x="165" y="258">1. Is an information security policy formally defined?</text>
+  <rect x="165" y="282" width="24" height="24" rx="5" fill="none" stroke="#4f6b5b" stroke-width="3"/><text x="202" y="302" font-size="18">Yes</text>
+  <rect x="278" y="282" width="24" height="24" rx="5" fill="none" stroke="#4f6b5b" stroke-width="3"/><text x="315" y="302" font-size="18">No</text>
+  <line x1="165" y1="338" x2="935" y2="338" stroke="#e3e7e4"/>
+  <text x="165" y="392">2. Are security roles and responsibilities formally assigned?</text>
+  <rect x="165" y="416" width="24" height="24" rx="5" fill="none" stroke="#2878f0" stroke-width="3"/><text x="202" y="436" font-size="18">Yes</text>
+  <rect x="278" y="416" width="24" height="24" rx="5" fill="none" stroke="#2878f0" stroke-width="3"/><text x="315" y="436" font-size="18">No</text>
+  <line x1="165" y1="472" x2="935" y2="472" stroke="#e3e7e4"/>
+  <text x="165" y="526">3. Is logical access control reviewed and audited regularly?</text>
+  <rect x="165" y="550" width="24" height="24" rx="5" fill="none" stroke="#35204d" stroke-width="3"/><text x="202" y="570" font-size="18">Yes</text>
+  <rect x="278" y="550" width="24" height="24" rx="5" fill="none" stroke="#35204d" stroke-width="3"/><text x="315" y="570" font-size="18">No</text>
+</g>
+</svg>

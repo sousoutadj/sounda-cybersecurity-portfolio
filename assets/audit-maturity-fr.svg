@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Modèle d’évaluation de maturité SSI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#eef6f8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#14213d" flood-opacity=".10"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="700" rx="36" fill="url(#bg)"/>
+  
+    <text x="70" y="95" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#1f2926">Modèle d’évaluation de maturité SSI</text>
+    <text x="70" y="142" font-family="Arial, sans-serif" font-size="23" fill="#64747a">Échelle pondérée basée sur ISO/IEC 27002</text>
+    <line x1="135" y1="340" x2="1035" y2="340" stroke="#b8c9ce" stroke-width="10" stroke-linecap="round"/>
+    <line x1="135" y1="340" x2="765" y2="340" stroke="#4f6b5b" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="135" cy="340" r="28" fill="#ffffff" stroke="#2878f0" stroke-width="8"/>
+        <text x="135" y="347" font-family="Arial, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#1f2926">0</text>
+        <text x="135" y="415" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#4e5c60">Pratique inexistante</text><circle cx="315" cy="340" r="28" fill="#ffffff" stroke="#2878f0" stroke-width="8"/>
+        <text x="315" y="347" font-family="Arial, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#1f2926">20</text>
+        <text x="315" y="415" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#4e5c60">Pratique informelle</text><circle cx="495" cy="340" r="28" fill="#ffffff" stroke="#2878f0" stroke-width="8"/>
+        <text x="495" y="347" font-family="Arial, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#1f2926">40</text>
+        <text x="495" y="415" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#4e5c60">Pratique répétable</text><circle cx="675" cy="340" r="28" fill="#ffffff" stroke="#2878f0" stroke-width="8"/>
+        <text x="675" y="347" font-family="Arial, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#1f2926">60</text>
+        <text x="675" y="415" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#4e5c60">Processus définis</text><circle cx="855" cy="340" r="28" fill="#ffffff" stroke="#2878f0" stroke-width="8"/>
+        <text x="855" y="347" font-family="Arial, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#1f2926">80</text>
+        <text x="855" y="415" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#4e5c60">Processus contrôlés</text><circle cx="1035" cy="340" r="28" fill="#ffffff" stroke="#2878f0" stroke-width="8"/>
+        <text x="1035" y="347" font-family="Arial, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#1f2926">100</text>
+        <text x="1035" y="415" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="#4e5c60">Optimisation continue</text>
+    <line x1="765" y1="245" x2="765" y2="455" stroke="#4f6b5b" stroke-width="3" stroke-dasharray="8 8"/>
+    <rect x="685" y="196" width="220" height="48" rx="24" fill="#26332e"/>
+    <text x="795" y="227" font-family="Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#ffffff">SEUIL CIBLE : 70 %</text>
+    <rect x="70" y="515" width="1060" height="105" rx="24" fill="#ffffff" stroke="#dce6e8" filter="url(#shadow)"/>
+    <text x="105" y="558" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#2878f0">ISO/IEC 27002</text>
+    <text x="105" y="592" font-family="Arial, sans-serif" font-size="20" fill="#34454a">Mesure structurée de la maturité des contrôles de sécurité.</text>
+    
+</svg>

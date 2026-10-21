@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="Extrait du questionnaire d’évaluation">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#eef6f8"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="14" stdDeviation="18" flood-color="#14213d" flood-opacity=".10"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="700" rx="36" fill="url(#bg)"/>
+  
+    <text x="70" y="90" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#1f2926">Extrait du questionnaire d’évaluation</text>
+    <text x="70" y="136" font-family="Arial,sans-serif" font-size="21" fill="#64747a">Structure illustrative — aucune donnée d’institution n’est affichée</text>
+    <rect x="70" y="180" width="1060" height="440" rx="26" fill="#fff" stroke="#dce6e8" filter="url(#shadow)"/>
+    
+        <text x="110" y="235" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#2878f0">01</text>
+        <text x="165" y="235" font-family="Arial,sans-serif" font-size="19" fill="#253136">L’institution dispose-t-elle d’une politique de sécurité ?</text>
+        <rect x="830" y="210" width="95" height="38" rx="19" fill="#eef5f3" stroke="#b7cac0"/>
+        <text x="878" y="235" font-family="Arial,sans-serif" font-size="16" text-anchor="middle" fill="#26332e">Oui</text>
+        <rect x="940" y="210" width="95" height="38" rx="19" fill="#f7fafc" stroke="#cfdadd"/>
+        <text x="988" y="235" font-family="Arial,sans-serif" font-size="16" text-anchor="middle" fill="#516066">Non</text>
+        <line x1="110" y1="273" x2="1090" y2="273" stroke="#e7edef"/>
+        <text x="110" y="330" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#2878f0">02</text>
+        <text x="165" y="330" font-family="Arial,sans-serif" font-size="19" fill="#253136">Les rôles et responsabilités SSI sont-ils formalisés ?</text>
+        <rect x="830" y="305" width="95" height="38" rx="19" fill="#eef5f3" stroke="#b7cac0"/>
+        <text x="878" y="330" font-family="Arial,sans-serif" font-size="16" text-anchor="middle" fill="#26332e">Oui</text>
+        <rect x="940" y="305" width="95" height="38" rx="19" fill="#f7fafc" stroke="#cfdadd"/>
+        <text x="988" y="330" font-family="Arial,sans-serif" font-size="16" text-anchor="middle" fill="#516066">Non</text>
+        <line x1="110" y1="368" x2="1090" y2="368" stroke="#e7edef"/>
+        <text x="110" y="425" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#2878f0">03</text>
+        <text x="165" y="425" font-family="Arial,sans-serif" font-size="19" fill="#253136">Existe-t-il un processus régulier d’évaluation des risques ?</text>
+        <rect x="830" y="400" width="95" height="38" rx="19" fill="#eef5f3" stroke="#b7cac0"/>
+        <text x="878" y="425" font-family="Arial,sans-serif" font-size="16" text-anchor="middle" fill="#26332e">Oui</text>
+        <rect x="940" y="400" width="95" height="38" rx="19" fill="#f7fafc" stroke="#cfdadd"/>
+        <text x="988" y="425" font-family="Arial,sans-serif" font-size="16" text-anchor="middle" fill="#516066">Non</text>
+        <line x1="110" y1="463" x2="1090" y2="463" stroke="#e7edef"/>
+        <text x="110" y="520" font-family="Arial,sans-serif" font-size="20" font-weight="700" fill="#2878f0">04</text>
+        <text x="165" y="520" font-family="Arial,sans-serif" font-size="19" fill="#253136">Les accès logiques sont-ils contrôlés et tracés ?</text>
+        <rect x="830" y="495" width="95" height="38" rx="19" fill="#eef5f3" stroke="#b7cac0"/>
+        <text x="878" y="520" font-family="Arial,sans-serif" font-size="16" text-anchor="middle" fill="#26332e">Oui</text>
+        <rect x="940" y="495" width="95" height="38" rx="19" fill="#f7fafc" stroke="#cfdadd"/>
+        <text x="988" y="520" font-family="Arial,sans-serif" font-size="16" text-anchor="middle" fill="#516066">Non</text>
+        
+</svg>

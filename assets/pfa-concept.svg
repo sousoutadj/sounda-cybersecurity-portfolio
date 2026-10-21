@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="t d">
+<title id="t">AI anomaly detection for critical infrastructure</title><desc id="d">Conceptual flow from critical infrastructure sensor data to an AI anomaly detection model.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111d20"/><stop offset="1" stop-color="#26332e"/></linearGradient><linearGradient id="pulse" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0cb3d9"/><stop offset="1" stop-color="#2878f0"/></linearGradient></defs>
+<rect width="1200" height="760" rx="48" fill="url(#bg)"/>
+<g opacity=".12" stroke="#d5e5de"><path d="M0 115H1200M0 235H1200M0 355H1200M0 475H1200M0 595H1200M170 0V760M370 0V760M570 0V760M770 0V760M970 0V760"/></g>
+<text x="80" y="95" font-family="Inter,Arial,sans-serif" font-size="24" fill="#9cd8e7" font-weight="700" letter-spacing="2">RESEARCH PROJECT • IN PROGRESS</text>
+<text x="80" y="150" font-family="Inter,Arial,sans-serif" font-size="46" fill="#fff" font-weight="800">AI-Based Anomaly Detection</text>
+<text x="80" y="195" font-family="Inter,Arial,sans-serif" font-size="28" fill="#c6d4cf">for Critical Infrastructure</text>
+<g transform="translate(90 310)" fill="none" stroke="#dce8e3" stroke-width="5">
+  <path d="M40 185V80h140v105M75 80V35h70v45M20 185h180M215 185h120v-70h70v70h90v-120h95v120h90"/>
+  <circle cx="110" cy="35" r="12" fill="#0cb3d9" stroke="none"/><circle cx="370" cy="115" r="12" fill="#2878f0" stroke="none"/><circle cx="590" cy="65" r="12" fill="#c9a98e" stroke="none"/>
+</g>
+<path d="M755 430c55-90 90 90 142 0s85 85 145-8" fill="none" stroke="url(#pulse)" stroke-width="10" stroke-linecap="round"/>
+<circle cx="896" cy="430" r="17" fill="#ff8364"/><circle cx="896" cy="430" r="35" fill="none" stroke="#ff8364" stroke-width="4" opacity=".45"/>
+<rect x="760" y="520" width="345" height="100" rx="24" fill="#fff" opacity=".08"/><text x="790" y="562" font-family="Inter,Arial,sans-serif" font-size="20" fill="#9cd8e7" font-weight="700">FOCUS</text><text x="790" y="595" font-family="Inter,Arial,sans-serif" font-size="18" fill="#fff">False positives • class imbalance • detection</text>
+</svg>
